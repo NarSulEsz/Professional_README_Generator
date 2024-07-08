@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const { type } = require('os');
-const { generateMarkdown, renderLicenseLink, renderLicenseBadge, renderLicenseSection } = require('./generateMarkdown.js');
+const { generateMarkdown, renderLicenseLink, renderLicenseBadge, renderLicenseSection } = require('./utils/generateMarkdown.js');
 //const generateMarkdown = require('./utils/generateMarkdown.js');
 
 
