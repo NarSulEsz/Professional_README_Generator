@@ -30,8 +30,9 @@ Email: ${answers.email}
 ${generateMarkdown.renderLicenseLink(answers.license)}
 `;
 
+// Check if the 'output' directory exists; if not, create it
   if (!fs.existsSync('./output')) {
-    fs.mkdirSync('./output');
+    fs.mkdirSync('./output');//Created directory
   }
   // Write the content to a README file
   fs.writeFile('output/README.md', content, (err) => {
