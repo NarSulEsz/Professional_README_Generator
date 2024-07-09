@@ -18,6 +18,6 @@ No special skills needed
 No special instructions needed
 This is link of repository: https://github.com/NarSulEsz/Professional_README_Generator
 
-This is link of web-site itself: 
+This is link of GoogleDrive: https://drive.google.com/file/d/198U7JrrMb0TfnFfllc6n_wXzPQQLDqkb/view
 
-Screenshot :
+
